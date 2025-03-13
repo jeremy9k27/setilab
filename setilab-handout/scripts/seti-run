@@ -490,4 +490,3 @@ if $KEEP_SUBMISSION_DIR; then
     echo "This directory will appear when your job finishes."
     echo
 fi
-

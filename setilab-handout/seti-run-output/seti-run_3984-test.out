@@ -1,0 +1,135 @@
+Printing environment information
+$SLURM_WORK_DIR=/home/mkd3804/setilab/setilab-handout/.tmp.Zclu8i5SYl
+$SLURM_SUBMIT_DIR=/home/mkd3804/setilab/setilab-handout
+$SETI_GOLDEN_DIR=/home/cs213lab/seti-scripts-slurm
+$SETI_HANDOUT_DIR=/home/cs213lab/HANDOUT
+$PERL5LIB=/home/cs213lab/seti-scripts-slurm
+$PWD=/home/mkd3804/setilab/setilab-handout/.tmp.Zclu8i5SYl
+
+declare -x BROWSER="/home/mkd3804/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/server/bin/helpers/browser.sh"
+declare -x COLORTERM="truecolor"
+declare -x DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/22788/bus"
+declare -x ENVIRONMENT="BATCH"
+declare -x GIT_ASKPASS="/home/mkd3804/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/server/extensions/git/dist/askpass.sh"
+declare -x GROUP="ug"
+declare -x HOME="/home/mkd3804"
+declare -x HOST="moore.wot.eecs.northwestern.edu"
+declare -x HOSTNAME="amdahl-1"
+declare -x HOSTTYPE="x86_64-linux"
+declare -x HYDRA_BOOTSTRAP="slurm"
+declare -x HYDRA_LAUNCHER_EXTRA_ARGS="--external-launcher"
+declare -x I_MPI_HYDRA_BOOTSTRAP="slurm"
+declare -x I_MPI_HYDRA_BOOTSTRAP_EXEC_EXTRA_ARGS="--external-launcher"
+declare -x KEEP_SLURM_WORK_DIR="false"
+declare -x LANG="en_US.UTF-8"
+declare -x LESSOPEN="||/usr/bin/lesspipe.sh %s"
+declare -x LOADEDMODULES=""
+declare -x LOGNAME="mkd3804"
+declare -x LS_COLORS="rs=0:di=38;5;33:ln=38;5;51:mh=00:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=01;05;37;41:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;40:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.zst=38;5;9:*.tzst=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.wim=38;5;9:*.swm=38;5;9:*.dwm=38;5;9:*.esd=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.mjpg=38;5;13:*.mjpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.m4a=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.oga=38;5;45:*.opus=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:"
+declare -x MACHTYPE="x86_64"
+declare -x MAIL="/var/spool/mail/mkd3804"
+declare -x MANPATH="/usr/share/man:"
+declare -x MODULEPATH="/etc/scl/modulefiles:/etc/scl/modulefiles:/etc/scl/modulefiles:/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+declare -x MODULEPATH_modshare="/usr/share/Modules/modulefiles:2:/etc/modulefiles:2:/usr/share/modulefiles:2"
+declare -x MODULESHOME="/usr/share/Modules"
+declare -x MODULES_CMD="/usr/share/Modules/libexec/modulecmd.tcl"
+declare -x MODULES_USE_COMPAT_VERSION="0"
+declare -x OLDPWD="/home/mkd3804/setilab/setilab-handout"
+declare -x OMPI_MCA_plm_slurm_args="--external-launcher"
+declare -x OSTYPE="linux"
+declare -x PATH="/home/mkd3804/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/server/bin/remote-cli:/usr/share/Modules/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/dell/srvadmin/bin:/files1/slurm/bin"
+declare -x PERL5LIB="/home/cs213lab/seti-scripts-slurm"
+declare -x PRTE_MCA_plm_slurm_args="--external-launcher"
+declare -x PWD="/home/mkd3804/setilab/setilab-handout/.tmp.Zclu8i5SYl"
+declare -x RENAMED_WORK_DIR_PATH="/home/mkd3804/setilab/setilab-handout/seti-run-3984-test-2025-03-08T16:25:00-06:00"
+declare -x SETI_EVAL_TO_RUN="/home/cs213lab/seti-scripts-slurm/seti-perf"
+declare -x SETI_GOLDEN_DIR="/home/cs213lab/seti-scripts-slurm"
+declare -x SETI_HANDOUT_DIR="/home/cs213lab/HANDOUT"
+declare -x SHELL="/bin/tcsh"
+declare -x SHLVL="7"
+declare -x SLURMD_NODENAME="amdahl-1"
+declare -x SLURM_CLUSTER_NAME="teaching"
+declare -x SLURM_CONF="/files1/slurm/etc/slurm/slurm.conf"
+declare -x SLURM_CPUS_ON_NODE="64"
+declare -x SLURM_GTIDS="0"
+declare -x SLURM_JOBID="3984"
+declare -x SLURM_JOB_ACCOUNT="cs213students"
+declare -x SLURM_JOB_CPUS_PER_NODE="64"
+declare -x SLURM_JOB_END_TIME="1741474081"
+declare -x SLURM_JOB_GID="307"
+declare -x SLURM_JOB_ID="3984"
+declare -x SLURM_JOB_NAME="setilab-yes9029_mkd3804-test"
+declare -x SLURM_JOB_NODELIST="amdahl-1"
+declare -x SLURM_JOB_NUM_NODES="1"
+declare -x SLURM_JOB_PARTITION="amdahl"
+declare -x SLURM_JOB_QOS="setilab"
+declare -x SLURM_JOB_START_TIME="1741472881"
+declare -x SLURM_JOB_UID="22788"
+declare -x SLURM_JOB_USER="mkd3804"
+declare -x SLURM_LOCALID="0"
+declare -x SLURM_NNODES="1"
+declare -x SLURM_NODEID="0"
+declare -x SLURM_NODELIST="amdahl-1"
+declare -x SLURM_PRIO_PROCESS="0"
+declare -x SLURM_PROCID="0"
+declare -x SLURM_SUBMIT_DIR="/home/mkd3804/setilab/setilab-handout"
+declare -x SLURM_SUBMIT_HOST="moore.wot.eecs.northwestern.edu"
+declare -x SLURM_TASKS_PER_NODE="64"
+declare -x SLURM_TASK_PID="880244"
+declare -x SLURM_TOPOLOGY_ADDR="amdahl-1"
+declare -x SLURM_TOPOLOGY_ADDR_PATTERN="node"
+declare -x SLURM_WORK_DIR="/home/mkd3804/setilab/setilab-handout/.tmp.Zclu8i5SYl"
+declare -x SSH_CLIENT="10.105.90.37 53898 22"
+declare -x SSH_CONNECTION="10.105.90.37 53898 129.105.5.212 22"
+declare -x SSL_CERT_DIR="/etc/pki/tls/certs"
+declare -x SSL_CERT_FILE="/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem"
+declare -x S_COLORS="auto"
+declare -x TERM="xterm-256color"
+declare -x TERM_PROGRAM="vscode"
+declare -x TERM_PROGRAM_VERSION="1.98.0"
+declare -x TMPDIR="/tmp"
+declare -x USER="mkd3804"
+declare -x VENDOR="unknown"
+declare -x VSCODE_GIT_ASKPASS_EXTRA_ARGS=""
+declare -x VSCODE_GIT_ASKPASS_MAIN="/home/mkd3804/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/server/extensions/git/dist/askpass-main.js"
+declare -x VSCODE_GIT_ASKPASS_NODE="/home/mkd3804/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/server/node"
+declare -x VSCODE_GIT_IPC_HANDLE="/run/user/22788/vscode-git-df99c9b3a7.sock"
+declare -x VSCODE_IPC_HOOK_CLI="/run/user/22788/vscode-ipc-3d377f7d-a367-47c3-b4a9-52f9882dde01.sock"
+declare -x XDG_RUNTIME_DIR="/run/user/22788"
+declare -x XDG_SESSION_ID="6993"
+
+Building SETI code
+
+gcc -O3 -g -Wall -c filter.c
+gcc -O3 -g -Wall -c signal.c
+gcc -O3 -g -Wall -c timing.c
+ar ruv libfilter.a filter.o signal.o timing.o
+ar: creating libfilter.a
+a - filter.o
+a - signal.o
+a - timing.o
+gcc -O3 -g -Wall -pthread p_band_scan.c -L. -lfilter -lm -o p_band_scan
+
+Building your code took 3 seconds
+
+Running student SETI code
+Running /home/cs213lab/seti-scripts-slurm/seti-perf
+
+Comparing performance of 
+     your program: ./p_band_scan
+  and our program: /home/cs213lab/HANDOUT/p_band_scan
+for  bands: (16)
+    orders: (32)
+     procs: (1,2,4,8) [threads 1:1 with procs]
+
+band	order	thread	proc	yourtime	ourtime		perf
+16	32	1	1	32.561097	33.972310	1.0433404623929
+16	32	2	2	16.304178	17.016023	1.04366028143216
+16	32	4	4	8.151988	8.511064	1.04404766052158
+16	32	8	8	4.071907	4.242593	1.04191795146598
+
+Running your code took 126 seconds
+
+Successfully Finished job 3984 at Sat Mar  8 16:30:12 CST 2025
+Finished SETILab job.
+Cleaning up /home/mkd3804/setilab/setilab-handout/.tmp.Zclu8i5SYl and exiting
